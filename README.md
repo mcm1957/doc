@@ -24,7 +24,7 @@ The following prerequisites must be met before an adapter can be added to Weblat
 1. Configure the following repository hook on GitHub
    - Go to the GitHub page of the adapter
    - Click on the "Settings" tab
-   - Click on "Webhooks"
+   - Click on "Webhooks" (located at left side menu)
    - Click on "Add webhook"
    - Set the Payload URL to `https://weblate.iobroker.net/hooks/github/` (everything else can be left as-is)
    
